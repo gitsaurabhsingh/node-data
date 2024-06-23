@@ -1,0 +1,205 @@
+{
+  "user": [
+    {
+      "id": "3970",
+      "nameEn": "Local",
+      "displayName": "राज्य-शहर",
+      "img": "https://images.bhaskarassets.com/web2images/521/2022/05/24/mera-shehar-new-1_1653383167.png",
+      "color": "#ff554b",
+      "listingUrl": "/",
+      "group": -1
+    },
+    {
+      "id": "15337",
+      "nameEn": "Loksabha Election",
+      "displayName": "लोकसभा चुनाव",
+      "img": "https://images.bhaskarassets.com/web2images/521/2022/01/07/gujarat-election21631797807-1_1641539041.png",
+      "color": "#c75137",
+      "meta": {
+        "iosUrl": "https://www.bhaskar.com/__widgets__/election-2024/",
+        "androidUrl": "https://www.bhaskar.com/__widgets__/election-2024/",
+        "actionType": "webView",
+        "viewType": "partView",
+        "actionTypeV2": "webView",
+        "listingUrl": "/election-2024/"
+      },
+      "listingUrl": "/election-2024/"
+    },
+    {
+      "id": "5176",
+      "nameEn": "IPL 2024",
+      "displayName": "IPL 2024",
+      "img": "https://images.bhaskarassets.com/web2images/521/2021/11/16/ipl15989555741599046844115991331121634106872_1637060692.png",
+      "color": "#0f86f5",
+      "meta": {
+        "iosUrl": "https://www.bhaskar.com/__widgets__/sports/cricket/",
+        "androidUrl": "https://www.bhaskar.com/__widgets__/sports/cricket/",
+        "actionType": "webView",
+        "viewType": "partView",
+        "actionTypeV2": "webView",
+        "listingUrl": "/sports/cricket/"
+      },
+      "listingUrl": "/sports/cricket/"
+    },
+    {
+      "id": "15578",
+      "nameEn": "Bhaskar Khaas",
+      "displayName": "भास्कर खास",
+      "img": "https://images.bhaskarassets.com/web2images/521/2023/07/24/bhaskar-khaas_1690206370.png",
+      "color": "#f89c1d",
+      "listingUrl": "/bhaskar-khaas/"
+    },
+    {
+      "id": "4587",
+      "nameEn": "DB Original",
+      "displayName": "DB ओरिजिनल",
+      "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icdboriginals1_1585398537.png",
+      "color": "#f89c1d",
+      "listingUrl": "/db-original/"
+    },
+    {
+      "id": "3998",
+      "nameEn": "Entertainment",
+      "displayName": "बॉलीवुड",
+      "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icentertainment1_1585397701.png",
+      "color": "#9d46f3",
+      "listingUrl": "/entertainment/"
+    },
+    {
+      "id": "15630",
+      "nameEn": "Lifestyle",
+      "displayName": "लाइफस्टाइल",
+      "img": "https://images.bhaskarassets.com/web2images/521/2023/10/03/categorylifestyle_1696313048.png",
+      "color": "#7059ff",
+      "listingUrl": "/lifestyle/"
+    },
+    {
+      "id": "11945",
+      "nameEn": "Jobs & Education",
+      "displayName": "जॉब - एजुकेशन",
+      "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icjobsandeducation1_1585398629.png",
+      "color": "#22b6e4",
+      "listingUrl": "/career/"
+    },
+    {
+      "id": "1532",
+      "nameEn": "Women",
+      "displayName": "वुमन",
+      "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icwomen1_1585398587.png",
+      "color": "#f2639a",
+      "listingUrl": "/women/"
+    },
+    {
+      "id": "1061",
+      "nameEn": "National",
+      "displayName": "देश",
+      "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icdesh1_1585397553.png",
+      "color": "#83b82e",
+      "listingUrl": "/national/"
+    },
+    {
+      "id": "1125",
+      "nameEn": "International",
+      "displayName": "विदेश",
+      "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icvidesh1_1585398719.png",
+      "color": "#39c3a2",
+      "listingUrl": "/international/"
+    },
+    {
+      "id": "1051",
+      "nameEn": "Business",
+      "displayName": "बिजनेस",
+      "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icmoneybhaskar15853186191_1585398499.png",
+      "color": "#3e9e3e",
+      "listingUrl": "/business/"
+    },
+    {
+      "id": "14992",
+      "nameEn": "Rashifal",
+      "displayName": "राशिफल",
+      "img": "https://images.bhaskarassets.com/web2images/521/2021/01/18/icrashifal_1610967542.png",
+      "color": "#F89C1B",
+      "meta": {
+        "iosUrl": "https://web.bhaskarapi.com/govevents/rashifal/index/521/app-ios/",
+        "androidUrl": "https://web.bhaskarapi.com/govevents/rashifal/index/521/app-android/",
+        "actionType": "webView",
+        "viewType": "fullView",
+        "actionTypeV2": "rashifalNative",
+        "listingUrl": "/rashifal/"
+      },
+      "listingUrl": "/rashifal/"
+    },
+    {
+      "id": "5707",
+      "nameEn": "Tech - Auto",
+      "displayName": "टेक - ऑटो",
+      "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/ictechandauto1_1585398692.png",
+      "color": "#4766d2",
+      "listingUrl": "/tech-auto/"
+    },
+    {
+      "id": "3379",
+      "nameEn": "Jeevan Mantra",
+      "displayName": "जीवन मंत्र",
+      "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icjeevanmantra1_1585398759.png",
+      "color": "#db6533",
+      "listingUrl": "/jeevan-mantra/"
+    },
+    {
+      "id": "1053",
+      "nameEn": "Sports",
+      "displayName": "स्पोर्ट्स",
+      "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icsports1_1585397795.png",
+      "color": "#0f86f5",
+      "listingUrl": "/sports/"
+    },
+    {
+      "id": "10891",
+      "nameEn": "Fake News Expose",
+      "displayName": "फेक न्यूज एक्सपोज़",
+      "img": "https://images.bhaskarassets.com/web2images/521/2022/04/21/no-fake-news_1650534310.png",
+      "color": "#dd444d",
+      "listingUrl": "/no-fake-news/"
+    },
+    {
+      "id": "1944",
+      "nameEn": "Opinion",
+      "displayName": "ओपिनियन",
+      "img": "https://images.bhaskarassets.com/web2images/521/2021/01/13/opinion_1610533028.png",
+      "color": "#6996cb",
+      "listingUrl": "/opinion/"
+    },
+    {
+      "id": "1762",
+      "nameEn": "Madhurima",
+      "displayName": "मधुरिमा",
+      "img": "https://images.bhaskarassets.com/web2images/521/2021/02/12/madhurima-icon-1_1613127122.png",
+      "color": "#b85e95",
+      "listingUrl": "/madhurima/"
+    },
+    {
+      "id": "1057",
+      "nameEn": "Magazine",
+      "displayName": "मैगजीन",
+      "img": "https://images.bhaskarassets.com/web2images/521/2020/10/27/magazine1_1603813527.png",
+      "color": "#b85e95",
+      "listingUrl": "/magazine/"
+    },
+    {
+      "id": "7911",
+      "nameEn": "Happy Life",
+      "displayName": "लाइफ - साइंस",
+      "img": "https://images.bhaskarassets.com/web2images/521/2020/10/27/life-science1_1603794515.png",
+      "color": "#ecaf00",
+      "listingUrl": "/happylife/"
+    },
+    {
+      "id": "11616",
+      "nameEn": "Utility",
+      "displayName": "यूटिलिटी",
+      "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icutility1_1585398788.png",
+      "color": "#879de9",
+      "listingUrl": "/utility/"
+    }
+  ]
+}
