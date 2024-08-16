@@ -12,6 +12,8 @@ const dataApi = JSON.parse(dataItem);
 
 const dataItem1 = fs.readFileSync(`${__dirname}/Data/header.json`, "utf-8");
 const dataApi1 = JSON.parse(dataItem1);
+const dataItem2 = fs.readFileSync(`${__dirname}/Data/banner.json`, "utf-8");
+const dataApi2 = JSON.parse(dataItem2);
 
 app.get("/", (req, res) => {
   res.send(dataApi);
@@ -19,6 +21,9 @@ app.get("/", (req, res) => {
 
 app.get("/header", (req, res) => {
   res.send(dataApi1);
+});
+app.get("/banner", (req, res) => {
+  res.send(dataApi2);
 });
 app.listen(port, () => {
   console.log(`localhost//:${port}`);
