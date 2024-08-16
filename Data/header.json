@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "6686ffaf5666730f0d1a4458",
+    "id": 1,
+    "title": "Home",
+    "url": "/"
+  },
+  {
+    "_id": "6686fff25666730f0d1a445b",
+    "id": 2,
+    "title": "Our Project",
+    "url": "/our project"
+  },
+  {
+    "_id": "6687003b5666730f0d1a445d",
+    "id": 3,
+    "title": "Why Dubai?",
+    "url": "/why dubai"
+  },
+  {
+    "_id": "6687005d5666730f0d1a445f",
+    "id": 4,
+    "title": "Article",
+    "url": "/article"
+  },
+  {
+    "_id": "6687007a5666730f0d1a4461",
+    "id": 5,
+    "title": "Offers",
+    "url": "/offers"
+  }
+]
